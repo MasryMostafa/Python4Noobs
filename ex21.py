@@ -25,6 +25,7 @@ iq = divide(100,2)
 print "Age: %d, Height: %d, Weight: %d, IQ: %d" %(age, height, weight, iq)
 
 print "Good morning"
+print "Good afternoon"
 
 print "Here is a puzzle"
 
