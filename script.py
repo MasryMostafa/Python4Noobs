@@ -1,6 +1,6 @@
 print "Welcome to the grocery list generator."
 glist = []
-a = input("How many items do you have today? >>> ")
+a = input("How many items do you have today?")
 b = 0
 
 while b < a:
